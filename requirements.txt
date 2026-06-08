@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mysql-connector-python
+sqlalchemy
+pandas
+openpyxl
+python-multipart
+pydantic
+starlette
